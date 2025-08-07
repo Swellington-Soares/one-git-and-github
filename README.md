@@ -1,1 +1,1 @@
-### HELLO WORLD README
+# Documentação do meetup Git e GitHub
